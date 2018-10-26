@@ -1,4 +1,5 @@
 import React from 'react';
+import CalvinAndHobbesUrl from '../../CalvinAndHobbes';
 
 const yearsExp = new Date().getFullYear() - 2012;
 
@@ -18,7 +19,7 @@ const About = () => (
           <br />
           <br />I am on <a href="https://github.com/xiomai">github</a> and{' '}
           <a href="https://www.facebook.com/xiomailuv">facebook</a>.<br />
-          Fan of <a href="https://www.gocomics.com/calvinandhobbes/">Calvin and Hobbes</a> and <a href="https://www.basketball-reference.com/players/j/jamesle01.html">LeBron
+          Fan of {<CalvinAndHobbesUrl />} and <a href="https://www.basketball-reference.com/players/j/jamesle01.html">LeBron
           James</a>.
         </p>
         <ul className="actions">

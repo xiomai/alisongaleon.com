@@ -50,28 +50,28 @@ const Contact = () => (
               <h3>Social</h3>
               <ul className="icons">
                 <li>
-                  <a href="https://github.com/xiomai" class="fa-github">
-                    <span class="label">GitHub</span>
+                  <a href="https://github.com/xiomai" className="fa-github">
+                    <span className="label">GitHub</span>
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.linkedin.com/in/alison-galeon-a54b7549/" class="fa-linkedin">
-                    <span class="label">LinkedIn</span>
+                  <a href="https://www.linkedin.com/in/alison-galeon-a54b7549/" className="fa-linkedin">
+                    <span className="label">LinkedIn</span>
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.facebook.com/xiomailuv" class="fa-facebook">
-                    <span class="label">Facebook</span>
+                  <a href="https://www.facebook.com/xiomailuv" className="fa-facebook">
+                    <span className="label">Facebook</span>
                   </a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/xiomaidotnet" class="fa-twitter">
-                    <span class="label">Twitter</span>
+                  <a href="https://twitter.com/xiomaidotnet" className="fa-twitter">
+                    <span className="label">Twitter</span>
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/xiomaidotnet/" class="fa-instagram">
-                    <span class="label">Instagram</span>
+                  <a href="https://www.instagram.com/xiomaidotnet/" className="fa-instagram">
+                    <span className="label">Instagram</span>
                   </a>
                 </li>
               </ul>

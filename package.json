@@ -3,9 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.0.5"
+    "react-scripts": "2.0.5",
+    "request-promise": "^4.2.2",
+    "sweetalert2": "^7.28.10",
+    "sweetalert2-react-content": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
